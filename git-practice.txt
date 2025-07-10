@@ -1,1 +1,2 @@
 From User 2
+Another string from User 2
